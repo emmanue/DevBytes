@@ -15,3 +15,6 @@
  */
 
 package com.example.android.devbyteviewer.repository
+
+// Following Best Practices
+
