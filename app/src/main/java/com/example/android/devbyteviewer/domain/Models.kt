@@ -31,7 +31,7 @@ import com.example.android.devbyteviewer.util.smartTruncate
  */
  
  // Following coding best practices
- 
+ // Readable and maintainable code
 data class DevByteVideo(val title: String,
                         val description: String,
                         val url: String,
