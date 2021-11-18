@@ -13,6 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ 
+ // Separation of concern following best practices
 
 package com.example.android.devbyteviewer.network
 
