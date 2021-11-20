@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+// Following coding best practices
 
 package com.example.android.devbyteviewer.util
 
