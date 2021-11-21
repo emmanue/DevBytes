@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// Following best practices
+
 package com.example.android.devbyteviewer.repository
 
 import androidx.lifecycle.LiveData
