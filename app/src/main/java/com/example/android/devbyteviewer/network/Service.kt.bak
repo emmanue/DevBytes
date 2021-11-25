@@ -14,7 +14,6 @@
  * limitations under the License.
  */
  
- // Readability and Maintainability
  // Separation of concern following best practices
 
 package com.example.android.devbyteviewer.network
